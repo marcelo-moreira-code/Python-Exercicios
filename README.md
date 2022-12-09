@@ -1,2 +1,2 @@
-# Python Exercicios
- Resolvendo os desafios e exercícios em Python
+# Python Exercícios
+Repositórios criado para armazenar minhas soluções de desafios e exercícios em Python.

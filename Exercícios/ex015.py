@@ -1,0 +1,2 @@
+# Desafio 015 - Faça um programa que pergunte a quantidade de Km percorrido por carro alugado e a quantidade de dias
+# pelos quais ele foi alugado. Calcule o preço a pagar , sabendo que o carro custa R$ 60 por dia e R$ 0.15 por KM rodado.

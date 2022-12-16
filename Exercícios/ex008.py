@@ -1,7 +1,4 @@
-a1 = int(input('Informe o primeiro termo: '))
-r = int(input('Razão: '))
-n = int(input('Quantos termo squeres exibir: '))
-an = a1 + (n-1) * r
+# Exercício 008 -  Escreva um programa que leia uma medida dada em m e o converta para cm e mm.
 
-for c in range(a1,an+1,r):
-    print(c)
+medida = float(input('Escreva a comprimento em m: '))
+print(f'O comprimento {medida}m convertido para cm fica: {medida*100}cm\nE em mm fica: {medida*1000}mm')

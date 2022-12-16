@@ -3,3 +3,5 @@
 num1 = float(input('Informe o primeiro número: '))
 num2 = float(input('Agora o segundo: '))
 print(f'A soma entre os números {num1} e {num2} é {num1+num2}')
+
+print(type(num1))

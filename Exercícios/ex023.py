@@ -6,8 +6,14 @@
 # Milhar : 1
 
 num = int(input('Escreva um número que esteja no intervalo de 0 a 9999: '))
+unid = num%10
+deze = num%100
+cent = num%1000
+milh = num%10000
 
-print(f'Unidade: {num[0]}')
-print(f'Dezena: {num:.1f}')
-print(f'Centena: {num:.2f}')
-print(f'Milhar: {num:.3f}')
+print(f'Para o número {num} temos : ')
+print(f'Unidade: {unid}')
+print(f'Dezenda: {(deze-unid)//10}')
+print(f'Centena: {(cent-deze)//100}')
+print(f'Milhar: {(milh-cent)//1000}')
+

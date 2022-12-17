@@ -6,5 +6,5 @@ print(playsound('braces.mp3'))'''
 
 import os
 
-música = 'braces.mp4'
+música = 'braces.mp3'
 os.system(música)

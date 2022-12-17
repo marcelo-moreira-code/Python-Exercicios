@@ -2,12 +2,14 @@
 # lendo o nome deles e escrevendo o nome do escolhido.
 
 from random import randint
+from time import sleep
 
-aluno1 = input('Informe o(a) nome do(a) aluno(a): ')
-aluno2 = input('Informe o(a) nome do(a) aluno(a): ')
-aluno3 = input('Informe o(a) nome do(a) aluno(a): ')
-aluno4 = input('Informe o(a) nome do(a) aluno(a): ')
+sorteio = randint(1,4)
+alunos = []
 
-sorteio = randint(1, 4)
+for c in range(1,5):
+    alunos.append(str(input(f'Informe o nome do {c}º aluno: ')))
 
-
+print(f'Os alunos que participarão do sorteio são {alunos}')
+sleep(2)
+print(f'E o aluno sorteado foi -> {alunos[sorteio]}')

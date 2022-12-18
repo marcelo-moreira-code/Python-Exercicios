@@ -6,3 +6,4 @@ if 'SANTO' in separa_cidade[0]:
     print('Sim, esta cidade começa com SANTO.')
 else:
     print('Não começa!')     
+

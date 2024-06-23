@@ -5,7 +5,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f800f5aa-515b-4c5a-bfaa-a6d0e9af3020" name="Changes" comment="ex041">
-      <change afterPath="$PROJECT_DIR$/Exercícios/ex042.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -36,19 +35,19 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Python.ex003.executor": "Run",
-    "Python.ex009.executor": "Run",
-    "Python.ex021.executor": "Run",
-    "Python.ex041.executor": "Run",
-    "Python.ex042.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "main",
-    "ignore.virus.scanning.warn.message": "true",
-    "last_opened_file_path": "F:/MeusProjetos/Python-Exercicios"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Python.ex003.executor&quot;: &quot;Run&quot;,
+    &quot;Python.ex009.executor&quot;: &quot;Run&quot;,
+    &quot;Python.ex021.executor&quot;: &quot;Run&quot;,
+    &quot;Python.ex041.executor&quot;: &quot;Run&quot;,
+    &quot;Python.ex042.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;F:/MeusProjetos/Python-Exercicios&quot;
   }
-}]]></component>
+}</component>
   <component name="RunManager" selected="Python.ex042">
     <configuration name="ex003" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
       <module name="Python-Exercicios" />
@@ -193,7 +192,23 @@
       <option name="project" value="LOCAL" />
       <updated>1719160312482</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="ex041">
+      <option name="closed" value="true" />
+      <created>1719171553690</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1719171553690</updated>
+    </task>
+    <task id="LOCAL-00003" summary="ex041">
+      <option name="closed" value="true" />
+      <created>1719171585859</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1719171585859</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
